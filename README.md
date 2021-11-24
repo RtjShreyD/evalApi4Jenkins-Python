@@ -1,4 +1,4 @@
-# Notebook to test api4jenkins - create job, update job
+# Notebook to test api4jenkins - create job, update job, create folder, create credentials
 
 ## To run:
 
