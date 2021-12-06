@@ -26,11 +26,11 @@ Jenkinsfile (Declarative Pipeline)
 
         }
         environment {
-			GIT_REPO = 'git@github.com:Stackexpress-Shreyans/testOpsnginx.git'
+			GIT_REPO = 'git@github'
             REMOTE_SERVER_USER = 'root'
             REMOTE_SERVER_ADDRESS_1 = '10.10.10.11'
             REMOTE_SERVER_ADDRESS_2 = '10.10.10.12'
-			APP_REGISTRY = 'registry.gitlab.com/stackexpresso/opspi2020/users-data-dev/NextTestOpsNginxJenkinsBuildRepo-4'
+			APP_REGISTRY = 'registry'
             RAILS_ENV = 'production'
         
         }
